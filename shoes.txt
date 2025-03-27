@@ -1,0 +1,13 @@
+Brand,Name,Color,Usage,Size
+# Usage must be one of: Casual, Athletic, Formal
+# Example entries below:
+Nike,Air Max,Black,Athletic,10.5
+Adidas,Superstar,White,Casual,11
+Allen Edmonds,Park Avenue,Brown,Formal,10
+New Balance,990v5,Gray,Athletic,9.5
+Vans,Old Skool,Black,Casual,10
+Nike,Air Force 1,White,Casual,10.5
+Salomon,Speedcross,Blue,Athletic,11
+Dr Martens,1460,Black,Casual,9
+Cole Haan,Original Grand,Brown,Formal,10.5
+Converse,Chuck Taylor,Red,Casual,9.5
